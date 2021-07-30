@@ -16,6 +16,12 @@ function generateMarkdown(answers) {
   TABLE OF CONTENTS
   =========================
   [Description](#Description)
+  [Notes](#Notes)
+  [Usage Information](#Usage-Information)
+  [Contributions](#Contributions)
+  [Testing Info](#Testing-Information)
+  [Licensing](#Licensing)
+  [Questions](#Questions)
 
   ## Description
   ${answers.projDescription}\n
