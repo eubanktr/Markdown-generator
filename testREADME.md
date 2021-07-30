@@ -1,4 +1,4 @@
-# README Generator
+# ReadMe Generator
 
   TABLE OF CONTENTS
   =========================
@@ -18,23 +18,23 @@
 
 
   ## Description
-  test
+  a simple readme file generator
 
   ## Notes
-  test
+  n/a
 
   ## Usage Information
-  test
+  n/a
 
   ## Contributions
-  etst
+  n/a
 
   ## Testing Information
-  test
+  n/a
 
   ## Licensing
   
 
   ## Questions
-  GitHub Username: https://github.com/test
-  If you have any questions please reach out via email. test
+  GitHub Username: https://github.com/eubanktr
+  If you have any questions please reach out via email. eubanktr@gmail.com

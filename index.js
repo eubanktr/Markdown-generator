@@ -74,7 +74,7 @@ function init() {
   
   .then((answers) => {
     // Use user feedback for... whatever!!
-    console.log(answers)
+    
     const markDown = generateMarkdown(answers);
    
     fs.writeFile('testREADME.md', markDown, (err) =>
