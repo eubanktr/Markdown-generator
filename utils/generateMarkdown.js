@@ -15,13 +15,13 @@ function generateMarkdown(answers) {
   return `# ${answers.projTitle}\n
   TABLE OF CONTENTS
   =========================
-  [Description](#Description)
-  [Notes](#Notes)
-  [Usage Information](#Usage-Information)
-  [Contributions](#Contributions)
-  [Testing Info](#Testing-Information)
-  [Licensing](#Licensing)
-  [Questions](#Questions)
+  [Description](#Description)\n
+  [Notes](#Notes)\n
+  [Usage Information](#Usage-Information)\n
+  [Contributions](#Contributions)\n
+  [Testing Info](#Testing-Information)\n
+  [Licensing](#Licensing)\n
+  [Questions](#Questions)\n
 
   ## Description
   ${answers.projDescription}\n
@@ -37,7 +37,7 @@ function generateMarkdown(answers) {
   ${answers.projLicense}\n
   ## Questions
   GitHub Username: https://github.com/${answers.projGit.toLowerCase().trim()}
-  If you have any questions please reach out via email. Email address: ${answers.projEmail}
+  If you have any questions please reach out via email. ${answers.projEmail}
 `;
 }
 
